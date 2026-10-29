@@ -18,3 +18,7 @@ Dev-C++
 
 Git y GitHub
 
+Link del video:
+
+https://www.youtube.com/watch?v=ZnvdiYNUgsE
+
