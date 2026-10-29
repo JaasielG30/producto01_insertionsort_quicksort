@@ -1,0 +1,17 @@
+# Archivos ejecutables y binarios de compilación
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+
+# Archivos de proyecto y caché específicos de IDEs (Dev-C++, etc.)
+*.layout
+*.win
+[Bb]in/
+[Oo]bj/
+*.depend
+
+# Carpetas temporales del sistema operativo
+.DS_Store
+Thumbs.db
